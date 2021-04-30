@@ -157,7 +157,7 @@ html .svg-stroke-color-tertiary svg polygon {
 }
 
 html .svg-fill-color-quaternary {
-	fill: #61E8CF !important;
+	fill: #d9d9d9 !important;
 }
 
 html .svg-fill-color-quaternary svg path,
@@ -314,7 +314,7 @@ html .bg-color-hover-before-tertiary:before:hover {
 
 html .bg-color-quaternary,
 html .bg-quaternary {
-	background-color: #61E8CF !important;
+	background-color: #d9d9d9 !important;
 }
 
 html .bg-color-hover-quaternary:hover,
@@ -1736,12 +1736,12 @@ html .btn-with-arrow.btn-light.btn-outline:hover span {
 
 .btn-gradient:not(.btn-outline).disabled,
 .btn-gradient:not(.btn-outline):disabled {
-	background: linear-gradient(135deg, #e23c8e 0%, #a33188 80%);
+	background: linear-gradient(135deg, #61E8CF 0%, #6CFFC3 80%);
 }
 
 .btn-gradient:not(.btn-outline):active,
 .btn-gradient:not(.btn-outline).active {
-	background: linear-gradient(135deg, #d8207b 0%, #86286f 80%) !important;
+	background: linear-gradient(135deg, #61E8CF 0%, #6CFFC3 80%) !important;
 	color: #FFF !important;
 }
 
